@@ -15,3 +15,5 @@ The following graph shows the difference between the fitness (i.e. the quality o
 <p align = "center">
 <img  src="./_static/solution_fitness.png">
 </p>
+
+This project was created by José Duarte and Yair Castillo
